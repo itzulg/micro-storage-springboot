@@ -1,0 +1,17 @@
+com\storage\micro\data\exceptions\BadRequestException.class
+com\storage\micro\data\servicee\ManagerService.class
+com\storage\micro\data\model\Manager.class
+com\storage\micro\data\servicee\StorageService.class
+com\storage\micro\data\controller\StorageController.class
+com\storage\micro\data\model\Adress.class
+com\storage\micro\data\model\ResponseDataStorage.class
+com\storage\micro\data\repository\StorageRepository.class
+com\storage\micro\data\model\RequestDataStorage.class
+com\storage\micro\data\service\impl\ManagerServiceImpl.class
+com\storage\micro\data\model\Storage.class
+com\storage\micro\data\model\Producto.class
+com\storage\micro\data\feign\client\ProductFeignClient.class
+com\storage\micro\data\StorageApplication.class
+com\storage\micro\data\feign\client\ManagerFeignClient.class
+com\storage\micro\data\service\impl\StorageServiceImpl.class
+com\storage\micro\data\exceptions\NotFoundException.class

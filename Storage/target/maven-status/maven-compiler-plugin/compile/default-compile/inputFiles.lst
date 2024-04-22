@@ -1,0 +1,17 @@
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\RequestDataStorage.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\repository\StorageRepository.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\Adress.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\Storage.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\controller\StorageController.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\Manager.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\servicee\ManagerService.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\StorageApplication.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\service\impl\StorageServiceImpl.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\Producto.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\exceptions\BadRequestException.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\model\ResponseDataStorage.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\service\impl\ManagerServiceImpl.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\feign\client\ManagerFeignClient.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\feign\client\ProductFeignClient.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\exceptions\NotFoundException.java
+D:\Descargas Chrome Google\SpringApp-20240404T214913Z-001\SpringApp\Storage\src\main\java\com\storage\micro\data\servicee\StorageService.java
